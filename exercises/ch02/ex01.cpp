@@ -1,8 +1,17 @@
 int main() {
-   int hour;
-   hour = 11;
+   int hour, minute;
+   char colon;
 
-   cout << "The hour is " << hour << "." << endl;
+   hour = 11;
+   minute = 59;
+   colon = ':';
+
+   cout << "The current time is ";
+   cout << hour;
+   cout << colon;
+   cout << minute;
+   cout << endl;
+
    return 0;
 }
 
