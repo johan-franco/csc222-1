@@ -1,5 +1,8 @@
 # Are You My Type?
 
+This problem is taken from
+[Sample Questions from the 2016 Contest](https://www.seminolestate.edu/computers/competition/samples/2016).
+
 ## Description
 
 Positive integers can be classified as abundant, deficient, or perfect.
@@ -33,5 +36,25 @@ perfect factors.
   <td>27</td>
   <td>Deficient Factors are: 1 3 9<br>
   Sum is: 13</td>
+</tr>
+<tr>
+  <td>28</td>
+  <td>Perfect Factors are: 1 2 4 7 14<br>
+  Sum is: 28</td>
+</tr>
+<tr>
+  <td>97</td>
+  <td>Deficient Factors are: 1<br>
+  Sum is: 1</td>
+</tr>
+<tr>
+  <td>100</td>
+  <td>Abundant Factors are: 1 2 4 5 10 20 25 50<br>
+  Sum is: 117</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>Perfect Factors are: 1 2 3<br>
+  Sum is: 6</td>
 </tr>
 </table>
