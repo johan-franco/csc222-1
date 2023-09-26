@@ -2,6 +2,9 @@
 Authors: Jamethiel Risacher and Marin McCormak
 Date: 26 October 2023
 Course: CSC 222: Object-Oriented Programming
+
+Resource: 
+https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/
 */
 #include <iostream>
 #include <string>
