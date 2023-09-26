@@ -57,7 +57,7 @@ from the start square to square.
 </tr>
 <tr>
   <td>9<br>Blue<br>Orange<br>Pink<br>Green<br>Red<br>Yellow<br>Yellow<br>
-  Yellow<br>Yellow<td>
+  Yellow<br>Yellow</td>
   <td>4</td>
 </tr>
 </table>
